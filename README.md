@@ -7,7 +7,7 @@
 - 🔭 I am creating my own Discord bot!
 - 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Finish my Discord project
+- 🥅 2023 Goals: Finish my Discord project
 - ⚡ Fun fact: I love to play video games and listen to music
 
 ### Connect with me:
